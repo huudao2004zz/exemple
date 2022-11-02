@@ -3,7 +3,7 @@ app.controller("myCtrl", function ($scope) {
     $scope.users = [
         {name: "Iphone 14 promax", fullname: "$22.50"},
         {name: "Iphone 14 pro", fullname: "$15.00"},
-        {name: "Iphone 14 promax", fullname: "$123.82"}
+        {name: "Iphone 14 ", fullname: "$123.82"}
 
     ];
     $scope.addUser = function () {
