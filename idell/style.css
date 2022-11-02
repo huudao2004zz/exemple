@@ -1,0 +1,36 @@
+.btn-group-sm>.btn,.btn-sm{
+    padding: 0.25rem 0.5rem;
+    font-size: 0.875rem;
+    line-height: 1.5;
+    border-radius: 1.0rem;
+}
+.btn-info{
+    color: #ffffff;
+    background-color: #ec7cc3;
+    border-color: #ced4da;
+    margin-top: 70px;
+    margin-bottom: 20px;
+}
+.hai {
+    margin-top: 10px;
+    padding-top: 5px;
+    background-color: rgb(231, 161, 202);
+    width: 200px;
+    color: #ffffff;
+    border: 20%;
+    height: 37px;
+    font-size: 15px;
+    font-weight: bold;
+    border-radius: 0.3rem;
+    width: 226px;
+    padding-left: 13px;
+}
+.table-responsive {
+    border: 3px solid rgb(220, 134, 187);
+    border-radius: 0.5rem;
+    margin-top: 20px;
+    padding-left: 10px;
+}
+h4 {
+    color: #ec7cc3;
+}
